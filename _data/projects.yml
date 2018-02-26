@@ -1,0 +1,46 @@
+- title: 'Pytorch RL'
+  date: '2017'
+  imgurl: '/images/projects/2017/bokeh_monitor.png'
+  imgprop: 'frame'
+  selected: true
+  authors: 
+    - name: Pedro Morais
+      url: 'https://github.com/p-morais'
+  desc: 'A python library that contains modular implementations of continuous deep reinforcement learning algorithms in Pytorch. Includes recent advances like Proximal Policy Optimization and Generalized Advantage Estimation as well as features like real-time graphs and advanced logging.'
+  tags:
+    - name: github
+      url: 'https://github.com/p-morais/rl'
+
+- title: 'Buckets++'
+  date: '2017'
+  imgurl: '/images/projects/2017/bucketspp.gif'
+  imgprop: 'frame'
+  selected: true
+  authors: 
+    - name: Pedro Morais
+      url: 'https://github.com/p-morais'
+    - name: Alex Jordache
+      url: 'https://github.com/therealAJ'
+    - name: Atsushi Yamamoto
+      url: 'https://github.com/jumbosushi'
+    - name: Jason Wong
+      url: 'https://github.com/jason-wong-9'
+  desc: 'A web-app that uses machine learning (mainly supervised learning via xgboost) to predict the odds of a basketball player succesfully scoring under specific conditions (matchup, shot type, distance and location etc) as well as providing descriptive statistics about scoring patterns. Submitted to Quackcon (an MLH Season 17 event) where it made the Final 6 and received the award for Best Athletic Enhancement Product.'
+  tags:
+    - name: github
+      url: 'https://github.com/therealAJ/buckets-plus-plus'
+
+- title: '955 OPR'
+  date: '2015'
+  imgurl: '/images/projects/2015/955opr.png'
+  imgprop: 'frame'
+  selected: true
+  authors: 
+    - name: Pedro Morais
+      url: 'https://github.com/p-morais'
+    - name: Fauzi Kliman
+      url: 'https://github.com/Merfoo'
+  desc: 'A comprehensive tool for FIRST Robotics teams to analyze competition data and make evaluations about robot performance for competitive analysis. Our program was used around the world by teams from Oregon to Israel in 2015. The program sifts through match scores compiled through thebluealliance.com''s API and scraped from Twitter and solves an overdetermined system of equations via ordinary least squares to fit a linear model of match outcomes. It features a slick custom GUI made in HTML5 and JQuery with a number of usability and querying features to maximize usability.'
+  tags:
+    - name: github
+      url: 'https://github.com/FRC-Team-955/955-OPR-Calculator'

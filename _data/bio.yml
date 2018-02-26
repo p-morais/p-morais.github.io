@@ -1,0 +1,16 @@
+name:       "Pedro Morais"
+title:      "Undergraduate @ Oregon State"
+email:      "autranep [at] oregonstate.edu"
+head_pic:   "/images/self-portrait/me.jpg"
+deep_pic:   "/images/self-portrait/deep-me.jpg"
+resume:     "/assets/resume/resume2018.pdf"
+normal:
+  date:     "Feb. 2018"
+  title:    ""
+  content:  "<strong>Pedro Morais</strong> is a third-year undergraduate studying Computer Science at <strong>Oregon State University</strong>. He currently does research at the <strong>Collaborative Robotics and Intelligent Systems Institute (CoRIS)</strong> working with <a href='http://web.engr.oregonstate.edu/~afern/'>Prof. Alan Fern</a> and <a href='#'> Prof. Jonathan Hurst</a>. Previously, he was an intern at <strong>Autodesk</strong> where he worked on the Synthesis project, a direct-from-CAD robot simulation and code validation tool.
+  
+  His research interests lie in the fields of <strong>Deep Reinforcement Learning</strong>, <strong>Machine Learning</strong> and <strong>Simulation</strong>, especially in their intersection with <strong>Robotics</strong>."
+short:
+  date:
+  title:  "Deep Learner"
+  content: "I am passionate with Machine Learning, Computer Vision as well as Natural Language Processing. My objective is to combine the power of <em class='text-grey-bright'>vision and language</em> for robots."

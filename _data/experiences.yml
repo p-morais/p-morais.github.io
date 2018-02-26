@@ -1,0 +1,39 @@
+- date:  "Summer 2017"
+  title: "REU @ CoRIS"
+  desc:  "Deep Reinforcement Learning, Biped Control"
+  host:
+    name: "<a href='http://web.engr.oregonstate.edu/~afern/'>Prof. Alan Fern</a>, <a href='http://mime.oregonstate.edu/people/hurst'>Prof. Jonathan Hurst</a>"
+    role: "Advisors"
+  brief: true
+
+- date:  "Summer 2016 "
+  title: "REU @ CORIS"
+  desc:  "Mont-Carlo Planning, Biped Motion Planning"
+  host:
+    name:  "<a href='http://web.engr.oregonstate.edu/~afern/'>Prof. Alan Fern</a>"
+    role: "Advisor"
+  brief: false
+
+- date:  "2015 -"
+  title: "Undergraduate Student @ OSU"
+  desc:  "B.S. in Computer Science"
+  host:
+    name: "Machine Learning and AI"
+    role: "Emphasis"
+  brief: true
+
+- date:  "Summer 2015"
+  title: "Software Engineer Intern @ Autodeesk"
+  desc:  "CAD-to-Simulation, Robot Code Emulation"
+  host:
+    name: "Andrew Sears"
+    role: "Supervisor"
+  brief: true
+
+- date:  "Summer 2014"
+  title: "Software Engineer Intern @ Autodeesk"
+  desc:  "CAD-to-Simulation, Robot Code Emulation"
+  host:
+    name: "Andrew Sears"
+    role: "Supervisor"
+  brief: false
