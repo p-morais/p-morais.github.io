@@ -1,3 +1,3 @@
-# Hexiang's Personal Blog
+# Pedro's Personal Blog
 
 Powered by [Jekyll]
