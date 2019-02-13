@@ -7,9 +7,11 @@ resume:     "/assets/resume/resume2018.pdf"
 normal:
   date:     "Feb. 2019"
   title:    ""
-  content:  "I am an undergraduate at <strong>Oregon State University</strong> majoring in Computer Science. I currently do research at the <a>Dynamic Robotics Lab</a> on developing reinforcement learning algorithms to control legged robots. Previously I interned at <strong>Autodesk</strong> where I worked on the Autodesk Synthesis project, a direct-from-CAD robot simulation and code validation tool. My research interests lie in the intersection of <strong>deep reinforcement learning</strong> with <strong>humanoid robotics</strong> and <strong>control</strong>. I believe in open, reproducible research and most of my code can be found on my github, @p-morais. 
-
+  content:  "I am a 4th year undergraduate at <strong>Oregon State University</strong> majoring in Computer Science. I currently do research at the <a>Dynamic Robotics Lab</a> on developing reinforcement learning algorithms to control legged robots. My research interests lie in the intersection of <strong>deep reinforcement learning</strong> with <strong>humanoid robotics</strong> and <strong>control</strong>. I believe in open, reproducible research and most of my code can be found freely on my github, <a href=\"http://github.com/p-morais\">@p-morais</a>. 
+  <br><br>
   When I'm not making robots walk and run I'm probably cooking, hiking, or watching B movies with my 4 month old kitten, Mongy."
+
+# Previously I interned at <strong>Autodesk</strong> where I worked on the Autodesk Synthesis project, a direct-from-CAD robot simulation and code validation tool.
 
 # short:
 #   date:
